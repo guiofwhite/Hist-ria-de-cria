@@ -31,6 +31,7 @@
 	.lista{
 		list-style-type: none;
 		text-align: center;
+		border: 200px;
 	}
 
 	a{
