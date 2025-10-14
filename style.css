@@ -32,13 +32,14 @@
 	.lista{
 		list-style-type: none;
 		text-align: center;
-		border: 200px;
+		
 	}
 
 	a{
 		text-decoration: none;
 		text-align: center;
 		border: 200px;
+		border-radius: 20px;
 		padding: 10px;
 		margin: 10px;
 	}
