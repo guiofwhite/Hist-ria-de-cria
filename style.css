@@ -31,7 +31,6 @@
 	ul{
 		list-style-type: none;
 		display: flex;
-		justify-content: center;
 		flex-direction: column;
 		flex-wrap: wrap;
 	}
@@ -39,7 +38,6 @@
 	a{
 		display: inline-block;
 		font-size: 10px;
-		list-style-type: none;
 		text-decoration: none;
 		border: 1px solid white;
 		padding: 10px;
