@@ -26,9 +26,9 @@
 
 	.lista{
 		list-style-type: none;
-		align-items: center;
 	}
 
 	a{
 		text-decoration: none;
+		align-items: center;
 	}
