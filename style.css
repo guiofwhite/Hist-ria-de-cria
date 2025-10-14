@@ -32,8 +32,7 @@
 		list-style-type: none;
 		text-decoration: none;
 		align-items: center;
-		border: 20px;
-		border-color: black;
+		border: 20px solid white;
 		border-radius: 20px;
 		padding: 10px;
 		margin: 10px;
