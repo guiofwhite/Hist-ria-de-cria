@@ -30,8 +30,9 @@
 	}
 
 	a{
+		list-style-type: none;
 		text-decoration: none;
-		text-align: center;
+		align-items: center;
 		border: 20px;
 		border-color: black;
 		border-radius: 20px;
