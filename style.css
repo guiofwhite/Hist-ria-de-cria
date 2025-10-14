@@ -1,11 +1,10 @@
 	body {
 		margin: 0 auto;
-		background-color: darkslategrey;
+		background-color: rgb(218, 182, 136);
 	}
 	
 	h1{
 		text-align: center;
-		text-shadow: blue;
 		font-family: "Cormorant Garamond", serif;
   		font-optical-sizing: auto;
   		font-weight: weight;
