@@ -33,11 +33,11 @@
 	}
 
 	a{
+		font-size: 10;
 		list-style-type: none;
 		text-decoration: none;
 		align-items: center;
 		border: 1px solid white;
-		border-radius: 20px;
 		padding: 10px;
 		margin: 300px 300px;
 	}
